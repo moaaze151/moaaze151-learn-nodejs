@@ -1,5 +1,5 @@
 //1-readFile 2-mkdir 3-rmdir 4-writeFile 5-unlink
-
+//fs = file system
 // const fs = require("fs")
 // let fileToRead = path.join(__dirname, "myfiles");
 
