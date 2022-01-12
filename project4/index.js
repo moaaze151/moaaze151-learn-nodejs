@@ -1,4 +1,5 @@
 //1-readFile  2-createReadStream
+//we will use stream for big files
 const http = require("http");
 const fs = require("fs");
 const path = require("path");
